@@ -1,5 +1,6 @@
+# 使用超小的Linux镜像alpine
+FROM alpine:3.6
 
-FROM centos:7
 
 ENV HOME /root
 
